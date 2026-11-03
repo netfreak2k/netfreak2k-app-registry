@@ -1,0 +1,90 @@
+{
+  "schema": 1,
+  "description": "N2K App Store – öffentlicher Auswahlkatalog, ohne Installationspakete",
+  "apps": [
+    {
+      "id": "jellyfin",
+      "name": "Jellyfin",
+      "category": "media",
+      "description": "Medienserver für Filme, Serien und Musik",
+      "website": "https://jellyfin.org/"
+    },
+    {
+      "id": "immich",
+      "name": "Immich",
+      "category": "media",
+      "description": "Private Foto- und Videobibliothek",
+      "website": "https://immich.app/"
+    },
+    {
+      "id": "nextcloud",
+      "name": "Nextcloud",
+      "category": "files",
+      "description": "Private Cloud für Dateien und Zusammenarbeit",
+      "website": "https://nextcloud.com/"
+    },
+    {
+      "id": "home-assistant",
+      "name": "Home Assistant",
+      "category": "home",
+      "description": "Lokale Smart-Home-Automatisierung",
+      "website": "https://www.home-assistant.io/"
+    },
+    {
+      "id": "adguard-home",
+      "name": "AdGuard Home",
+      "category": "network",
+      "description": "DNS-Filter für das Heimnetz",
+      "website": "https://adguard.com/en/adguard-home/overview.html"
+    },
+    {
+      "id": "paperless-ngx",
+      "name": "Paperless-ngx",
+      "category": "files",
+      "description": "Dokumentenarchiv mit Volltextsuche",
+      "website": "https://docs.paperless-ngx.com/"
+    },
+    {
+      "id": "audiobookshelf",
+      "name": "Audiobookshelf",
+      "category": "media",
+      "description": "Hörbücher und Podcasts selbst hosten",
+      "website": "https://www.audiobookshelf.org/"
+    },
+    {
+      "id": "mealie",
+      "name": "Mealie",
+      "category": "home",
+      "description": "Rezeptverwaltung und Essensplanung",
+      "website": "https://mealie.io/"
+    },
+    {
+      "id": "gitea",
+      "name": "Gitea",
+      "category": "tools",
+      "description": "Eigener Git-Server",
+      "website": "https://about.gitea.com/"
+    },
+    {
+      "id": "stirling-pdf",
+      "name": "Stirling PDF",
+      "category": "tools",
+      "description": "PDF-Werkzeuge im Browser",
+      "website": "https://www.stirlingpdf.com/"
+    },
+    {
+      "id": "navidrome",
+      "name": "Navidrome",
+      "category": "media",
+      "description": "Eigener Musikstreaming-Server",
+      "website": "https://www.navidrome.org/"
+    },
+    {
+      "id": "uptime-kuma",
+      "name": "Uptime Kuma",
+      "category": "tools",
+      "description": "Monitoring und Statusseiten",
+      "website": "https://uptime.kuma.pet/"
+    }
+  ]
+}
