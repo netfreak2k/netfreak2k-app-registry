@@ -85,6 +85,90 @@
       "category": "tools",
       "description": "Monitoring und Statusseiten",
       "website": "https://uptime.kuma.pet/"
+    },
+    {
+      "id": "syncthing",
+      "name": "Syncthing",
+      "category": "files",
+      "description": "Verschlüsselte Dateisynchronisierung direkt zwischen Geräten",
+      "website": "https://syncthing.net/"
+    },
+    {
+      "id": "freshrss",
+      "name": "FreshRSS",
+      "category": "tools",
+      "description": "Eigener RSS- und Atom-Feedreader",
+      "website": "https://freshrss.org/"
+    },
+    {
+      "id": "open-webui",
+      "name": "Open WebUI",
+      "category": "tools",
+      "description": "Weboberfläche für lokale und kompatible KI-Modelle",
+      "website": "https://docs.openwebui.com/"
+    },
+    {
+      "id": "ollama",
+      "name": "Ollama",
+      "category": "tools",
+      "description": "Laufzeitumgebung für lokal betriebene KI-Modelle",
+      "website": "https://ollama.com/"
+    },
+    {
+      "id": "vikunja",
+      "name": "Vikunja",
+      "category": "tools",
+      "description": "Aufgaben, Projekte, Kanban und Kalender selbst verwalten",
+      "website": "https://vikunja.io/"
+    },
+    {
+      "id": "homepage",
+      "name": "Homepage",
+      "category": "tools",
+      "description": "Konfigurierbares Dashboard für eigene Webdienste",
+      "website": "https://gethomepage.dev/"
+    },
+    {
+      "id": "beszel",
+      "name": "Beszel",
+      "category": "tools",
+      "description": "Ressourcenschonendes Server- und Docker-Monitoring",
+      "website": "https://beszel.dev/"
+    },
+    {
+      "id": "forgejo",
+      "name": "Forgejo",
+      "category": "tools",
+      "description": "Selbstgehostete Git-Repositories mit Issues und Pull Requests",
+      "website": "https://forgejo.org/"
+    },
+    {
+      "id": "actual-budget",
+      "name": "Actual Budget",
+      "category": "tools",
+      "description": "Private Haushaltsplanung und Budgetverwaltung",
+      "website": "https://actualbudget.org/"
+    },
+    {
+      "id": "gotify",
+      "name": "Gotify",
+      "category": "network",
+      "description": "Eigener Server für Push-Benachrichtigungen",
+      "website": "https://gotify.net/"
+    },
+    {
+      "id": "changedetection",
+      "name": "changedetection.io",
+      "category": "tools",
+      "description": "Änderungen an Webseiten überwachen",
+      "website": "https://changedetection.io/"
+    },
+    {
+      "id": "readeck",
+      "name": "Readeck",
+      "category": "tools",
+      "description": "Webartikel lokal speichern und später lesen",
+      "website": "https://readeck.org/"
     }
   ]
 }
